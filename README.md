@@ -1,5 +1,5 @@
 
-# Web Dev Project Time Prediction
+# Web Dev Project Time Prediction by Uzor Samuel 20CN027849
 
 This project demonstrates a simple linear regression model to predict project completion time based on:
 
